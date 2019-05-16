@@ -1,0 +1,19 @@
+body {
+        background-color: whitesmoke;
+        padding: 10px 10px 10px 10px;
+        font-family: sans-serif;
+        background-image: url("sky_image.jpg");
+        background-size: cover;
+        
+
+}
+
+h1 {
+        background-color: rebeccapurple;
+        text-align: center;
+        color: whitesmoke;
+}
+
+p {
+        color: black;
+}
